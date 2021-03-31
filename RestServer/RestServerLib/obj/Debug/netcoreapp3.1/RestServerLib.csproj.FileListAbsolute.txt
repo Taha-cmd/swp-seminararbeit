@@ -1,0 +1,9 @@
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServerLib\bin\Debug\netcoreapp3.1\RestServerLib.deps.json
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServerLib\bin\Debug\netcoreapp3.1\RestServerLib.dll
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServerLib\bin\Debug\netcoreapp3.1\RestServerLib.pdb
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServerLib\obj\Debug\netcoreapp3.1\RestServerLib.csprojAssemblyReference.cache
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServerLib\obj\Debug\netcoreapp3.1\RestServerLib.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServerLib\obj\Debug\netcoreapp3.1\RestServerLib.AssemblyInfo.cs
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServerLib\obj\Debug\netcoreapp3.1\RestServerLib.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServerLib\obj\Debug\netcoreapp3.1\RestServerLib.dll
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServerLib\obj\Debug\netcoreapp3.1\RestServerLib.pdb

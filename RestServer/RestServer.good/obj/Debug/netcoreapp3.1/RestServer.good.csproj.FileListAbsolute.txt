@@ -1,0 +1,16 @@
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServer.good\bin\Debug\netcoreapp3.1\RestServer.good.exe
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServer.good\bin\Debug\netcoreapp3.1\RestServer.good.deps.json
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServer.good\bin\Debug\netcoreapp3.1\RestServer.good.runtimeconfig.json
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServer.good\bin\Debug\netcoreapp3.1\RestServer.good.runtimeconfig.dev.json
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServer.good\bin\Debug\netcoreapp3.1\RestServer.good.dll
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServer.good\bin\Debug\netcoreapp3.1\RestServer.good.pdb
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServer.good\bin\Debug\netcoreapp3.1\RestServerLib.dll
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServer.good\bin\Debug\netcoreapp3.1\RestServerLib.pdb
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServer.good\obj\Debug\netcoreapp3.1\RestServer.good.csprojAssemblyReference.cache
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServer.good\obj\Debug\netcoreapp3.1\RestServer.good.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServer.good\obj\Debug\netcoreapp3.1\RestServer.good.AssemblyInfo.cs
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServer.good\obj\Debug\netcoreapp3.1\RestServer.good.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServer.good\obj\Debug\netcoreapp3.1\RestServer.good.csproj.CopyComplete
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServer.good\obj\Debug\netcoreapp3.1\RestServer.good.dll
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServer.good\obj\Debug\netcoreapp3.1\RestServer.good.pdb
+C:\Users\Taha\Desktop\Studium\4.semester\swp\Seminararbeit\swp-seminararbeit\RestServer\RestServer.good\obj\Debug\netcoreapp3.1\RestServer.good.genruntimeconfig.cache
