@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestServer.good", "RestServer.good\RestServer.good.csproj", "{F21BA9A9-CD01-4E70-801F-071D03954513}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestServer.good", "RestServer.good\RestServer.good.csproj", "{F21BA9A9-CD01-4E70-801F-071D03954513}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestServer.bad", "RestServer.bad\RestServer.bad.csproj", "{4CA4C595-0B8E-4AA0-9850-C510C9775EEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestServer.bad", "RestServer.bad\RestServer.bad.csproj", "{4CA4C595-0B8E-4AA0-9850-C510C9775EEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestServerLib", "RestServerLib\RestServerLib.csproj", "{030804DC-89E7-4911-B019-634069E16D74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestServerLib", "RestServerLib\RestServerLib.csproj", "{030804DC-89E7-4911-B019-634069E16D74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

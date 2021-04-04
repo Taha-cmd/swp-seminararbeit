@@ -1,0 +1,16 @@
+C:\Users\Acer PC\source\repos\swp-seminararbeit\RestServer\RestServer.bad\bin\Debug\netcoreapp3.1\RestServer.bad.exe
+C:\Users\Acer PC\source\repos\swp-seminararbeit\RestServer\RestServer.bad\bin\Debug\netcoreapp3.1\RestServer.bad.deps.json
+C:\Users\Acer PC\source\repos\swp-seminararbeit\RestServer\RestServer.bad\bin\Debug\netcoreapp3.1\RestServer.bad.runtimeconfig.json
+C:\Users\Acer PC\source\repos\swp-seminararbeit\RestServer\RestServer.bad\bin\Debug\netcoreapp3.1\RestServer.bad.runtimeconfig.dev.json
+C:\Users\Acer PC\source\repos\swp-seminararbeit\RestServer\RestServer.bad\bin\Debug\netcoreapp3.1\RestServer.bad.dll
+C:\Users\Acer PC\source\repos\swp-seminararbeit\RestServer\RestServer.bad\bin\Debug\netcoreapp3.1\RestServer.bad.pdb
+C:\Users\Acer PC\source\repos\swp-seminararbeit\RestServer\RestServer.bad\bin\Debug\netcoreapp3.1\RestServerLib.dll
+C:\Users\Acer PC\source\repos\swp-seminararbeit\RestServer\RestServer.bad\bin\Debug\netcoreapp3.1\RestServerLib.pdb
+C:\Users\Acer PC\source\repos\swp-seminararbeit\RestServer\RestServer.bad\obj\Debug\netcoreapp3.1\RestServer.bad.csprojAssemblyReference.cache
+C:\Users\Acer PC\source\repos\swp-seminararbeit\RestServer\RestServer.bad\obj\Debug\netcoreapp3.1\RestServer.bad.AssemblyInfoInputs.cache
+C:\Users\Acer PC\source\repos\swp-seminararbeit\RestServer\RestServer.bad\obj\Debug\netcoreapp3.1\RestServer.bad.AssemblyInfo.cs
+C:\Users\Acer PC\source\repos\swp-seminararbeit\RestServer\RestServer.bad\obj\Debug\netcoreapp3.1\RestServer.bad.csproj.CoreCompileInputs.cache
+C:\Users\Acer PC\source\repos\swp-seminararbeit\RestServer\RestServer.bad\obj\Debug\netcoreapp3.1\RestServer.bad.csproj.CopyComplete
+C:\Users\Acer PC\source\repos\swp-seminararbeit\RestServer\RestServer.bad\obj\Debug\netcoreapp3.1\RestServer.bad.dll
+C:\Users\Acer PC\source\repos\swp-seminararbeit\RestServer\RestServer.bad\obj\Debug\netcoreapp3.1\RestServer.bad.pdb
+C:\Users\Acer PC\source\repos\swp-seminararbeit\RestServer\RestServer.bad\obj\Debug\netcoreapp3.1\RestServer.bad.genruntimeconfig.cache

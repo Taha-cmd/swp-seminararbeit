@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RestServer.bad/1.0.0": {
+        "dependencies": {
+          "RestServerLib": "1.0.0"
+        },
+        "runtime": {
+          "RestServer.bad.dll": {}
+        }
+      },
+      "RestServerLib/1.0.0": {
+        "runtime": {
+          "RestServerLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RestServer.bad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestServerLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

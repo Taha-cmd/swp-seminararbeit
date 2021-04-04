@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Taha\\Desktop\\Studium\\4.semester\\swp\\Seminararbeit\\swp-seminararbeit\\RestServer\\RestServerLib\\RestServerLib.csproj": {}
+    "C:\\Users\\Acer PC\\source\\repos\\swp-seminararbeit\\RestServer\\RestServerLib\\RestServerLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Taha\\Desktop\\Studium\\4.semester\\swp\\Seminararbeit\\swp-seminararbeit\\RestServer\\RestServerLib\\RestServerLib.csproj": {
+    "C:\\Users\\Acer PC\\source\\repos\\swp-seminararbeit\\RestServer\\RestServerLib\\RestServerLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Taha\\Desktop\\Studium\\4.semester\\swp\\Seminararbeit\\swp-seminararbeit\\RestServer\\RestServerLib\\RestServerLib.csproj",
+        "projectUniqueName": "C:\\Users\\Acer PC\\source\\repos\\swp-seminararbeit\\RestServer\\RestServerLib\\RestServerLib.csproj",
         "projectName": "RestServerLib",
-        "projectPath": "C:\\Users\\Taha\\Desktop\\Studium\\4.semester\\swp\\Seminararbeit\\swp-seminararbeit\\RestServer\\RestServerLib\\RestServerLib.csproj",
-        "packagesPath": "C:\\Users\\Taha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Taha\\Desktop\\Studium\\4.semester\\swp\\Seminararbeit\\swp-seminararbeit\\RestServer\\RestServerLib\\obj\\",
+        "projectPath": "C:\\Users\\Acer PC\\source\\repos\\swp-seminararbeit\\RestServer\\RestServerLib\\RestServerLib.csproj",
+        "packagesPath": "C:\\Users\\Acer PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Acer PC\\source\\repos\\swp-seminararbeit\\RestServer\\RestServerLib\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Taha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Acer PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
