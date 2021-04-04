@@ -34,46 +34,39 @@ namespace RestServer.bad
                 if (request.Verb == "POST"  && endpoint == "Courses")
                 {
                     Console.WriteLine(" Course is created");
-                   // return new HttpResponse(200, "OK", "Course created");
+                   
                 }
                 else if (request.Verb == "GET" && endpoint == "Courses")
                 {
                     Console.WriteLine("Courses will be retrieved");
-                   // return new HttpResponse(200, "OK", "Course created");
                 }
                 else if (request.Verb == "DELETE" && endpoint == "Courses")
                 {
                     Console.WriteLine(" Course deleted");
-                    //return new HttpResponse(200, "OK", "Course created");
                 }
                 else if (request.Verb == "PUT" && endpoint == "Courses")
                 {
                     Console.WriteLine("PUT request:  Course will be updated");
-                    //return new HttpResponse(200, "OK", "Course created");
                 }
 
                 /******************* User *******************/
                 else if (request.Verb == "POST" && endpoint == "User")
                 {
                     Console.WriteLine(" User is created");
-                    //return new HttpResponse(200, "OK", "Course created");
                 }
                 else if (request.Verb == "GET" && endpoint == "User")
                 {
                     Console.WriteLine("User infos will be retrieved");
-                   // return new HttpResponse(200, "OK", "Course created");
                 }
                 else if (request.Verb == "PUT" && endpoint == "User")
                 {
                     Console.WriteLine("Infos  updated");
-                    //return new HttpResponse(200, "OK", "Course created");
                 }
                 else if (request.Verb == "DELETE" && endpoint == "User")
                 {
                     Console.WriteLine(" Course deleted");
-                    //return new HttpResponse(200, "OK", "Course created");
                 }
-                /******************* Registrierung *******************/
+                /******************* Registration *******************/
                 else if (request.Verb == "POST" && endpoint == "Register")
                 {
                     Console.WriteLine("Enter Name");
@@ -81,9 +74,9 @@ namespace RestServer.bad
                     Console.WriteLine("Enter password");
                     string password = Console.ReadLine();
                     Console.WriteLine(" Successfully registred");
-                    //return new HttpResponse(200, "OK", "Course created");
+                    
                 }
-                /******************* Anmeldung *******************/
+                /******************* Login **********************/
                 else if (request.Verb == "POST" && endpoint == "Login")
                 {
                     Console.WriteLine("Enter Name");
@@ -91,13 +84,37 @@ namespace RestServer.bad
                     Console.WriteLine("Enter password");
                     string password = Console.ReadLine();
                     Console.WriteLine(" Successfully Logged in");
-                   // return new HttpResponse(200, "OK", "Course created");
+                   
+                }
+                /******************* Professors **********************/
+                else if (request.Verb == "POST" && endpoint == "Professor")
+                {
+                    Console.WriteLine("Enter Name");
+                    string name = Console.ReadLine();
+                    Console.WriteLine("Enter field:");
+                    string FIELD = Console.ReadLine();
+                    Console.WriteLine("Professor " + name + " Successfully Added to database");
+                  
+                }
+                else if (request.Verb == "GET" && endpoint == "Professor")
+                {
+                    Console.WriteLine("List of Professor  will be retrieved and displayed");
+                   
+                }
+                else if (request.Verb == "DELETE" && endpoint == "Professor")
+                {
+                    Console.WriteLine("Enter Name");
+                    string name = Console.ReadLine();
+                    Console.WriteLine("Professor " + name + " was  deleted from database");
+                    //return new HttpResponse(200, "OK", "Course created");
                 }
                 else
                 {
                     Console.WriteLine("404 NOT FOUND");
-                    ///return new HttpResponse(404, "NOT FOUND", "endPoint not found");
+                    //return new HttpResponse(404, "NOT FOUND", "endPoint not found");
                 }
+
+
 
                 //response.Send(); in actuall code, not implemented here
             }

@@ -7,7 +7,7 @@ namespace RestServer.bad
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hallo");
+           
 
             var server = new RestServer(IPAddress.Any);
            
